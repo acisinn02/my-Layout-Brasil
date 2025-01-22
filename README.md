@@ -1,6 +1,7 @@
-# myapp
+# My Layout Brasil
 
-A new Flutter project.
+Essa é a nossa atividade 2 do curso "Desenvolvimento Web"
+Talento Tech
 
 ## Getting Started
 
