@@ -94,7 +94,7 @@ class _GridViewItem extends StatelessWidget {
         child: Text(
           text,
           style: const TextStyle(
-            fontSize: 13,
+            fontSize: 18,
             color: Color.fromARGB(255, 5, 5, 5), // Cor do texto
           ),
         ),
